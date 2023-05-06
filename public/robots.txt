@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /globaladministrate/
+Disallow: /global/global_admin/
+Disallow: /global/global_team_admin/
